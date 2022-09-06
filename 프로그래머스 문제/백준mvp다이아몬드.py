@@ -14,4 +14,3 @@ for i in range(N):
     elif mvp[i] == 'G':
         sum += p - 1 - prev
         prev = s - 1 - prev
-    
