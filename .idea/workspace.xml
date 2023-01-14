@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/D3/1213.string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/D3/1220.Magnetic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw아카데미 problem solving/D3/2805.농작물 수확하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw아카데미 problem solving/D3/2805.농작물 수확하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw아카데미 problem solving/D3/2806.n-queen.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw아카데미 problem solving/D3/2806.n-queen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
