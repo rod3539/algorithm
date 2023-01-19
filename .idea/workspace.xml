@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/minmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/전기버스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/다음 큰 숫자.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/숫자의 표현.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/짝지어 제거하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/피보나치 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/1차캐시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/n개의 최소공배수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/영어 끝말있기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/예상 대진표.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/점프와 순간 이동.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스 문제/level2/이진변환반복하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/이진변환반복하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/전기버스.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/전기버스.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스 문제/level2/카펫.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/카펫.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
