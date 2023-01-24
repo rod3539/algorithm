@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level3/기지국 설치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level3/섬 연결하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스 문제/level3/이중우선순위큐.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/level3/이중우선순위큐.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
