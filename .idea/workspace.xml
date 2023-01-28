@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/Forth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/괄호검사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/그래프 경로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/미로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/반복문자 지우기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/토너먼트 카드게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/다익스트라_heapq버전.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/다익스트라_간단구현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/문제/특정한 최단경로(1504).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/문제/파티(1238).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/종이붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/탐욕 알고리즘.iml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/탐욕 알고리즘.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/외양간.py" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/최소 힙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +43,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.미로">
-    <configuration name="반복문자 지우기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.파티(1238)">
+    <configuration name="최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/반복문자 지우기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/최소 힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,6 +191,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="특정한 최단경로(1504)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라/문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/문제/특정한 최단경로(1504).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,27 +233,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="괄호검사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/괄호검사.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Forth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,6 +246,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/Forth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="괄호검사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw아카데미 problem solving/intermediate/괄호검사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,13 +380,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="파티(1238)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라/문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/문제/파티(1238).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.파티(1238)" />
+        <item itemvalue="Python.특정한 최단경로(1504)" />
+        <item itemvalue="Python.최소 힙" />
         <item itemvalue="Python.미로" />
         <item itemvalue="Python.Forth" />
-        <item itemvalue="Python.반복문자 지우기" />
-        <item itemvalue="Python.괄호검사" />
-        <item itemvalue="Python.문자열 비교" />
       </list>
     </recent_temporary>
   </component>
