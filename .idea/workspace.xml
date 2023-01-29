@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/다익스트라/다익스트라_heapq버전.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다익스트라/다익스트라_간단구현.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다익스트라/문제/특정한 최단경로(1504).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다익스트라/문제/파티(1238).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/단어 변환.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/.idea/탐욕 알고리즘.iml" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/.idea/탐욕 알고리즘.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/탐욕 알고리즘/외양간.py" beforeDir="false" afterPath="$PROJECT_DIR$/다익스트라/최소 힙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,32 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rod35/Desktop/algorithm"
+  }
+}]]></component>
   <component name="RunManager" selected="Python.파티(1238)">
-    <configuration name="최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/최소 힙.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="백준 안전영역" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,6 +178,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/문제/특정한 최단경로(1504).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/최소 힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
