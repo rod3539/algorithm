@@ -1,18 +1,13 @@
-from collections import deque
-def solution(numbers, target):
+def solution(nums):
     answer = 0
-    queue = deque()
-    queue.append([-1 * numbers[0], 0])
-    queue.append([numbers[0], 0])
-    n = len(numbers)
-    while queue:
-        now, i = queue.popleft()
-        i += 1
-        if i < n:
-            queue.append([now + numbers[i], i])
-            queue.append([now - numbers[i], i])
+    po_dic = {}
+    for num in nums:
+        if num not in po_dic.keys():
+            po_dic[num] = 1
         else:
-            if now == target:
-                answer += 1
-
+            po_dic[num] += 1
+    if len(po_dic) >= len(nums) // 2:
+        answer = len(nums) // 2
+    else:
+        answer = len(po_dic)
     return answer
