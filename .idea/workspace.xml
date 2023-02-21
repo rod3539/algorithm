@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dfs/나이트로 이동.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/빙산.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코딩테스트 준비/그리디/연료 채우기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/단속카메라.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/등굣길.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/스킬트리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/할인 행사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level3/베스트앨범.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스 문제/level2/단속카메라.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/단속카메라.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/프로그래머스 문제/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
