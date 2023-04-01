@@ -1,36 +1,33 @@
-#경로를 벗어나면 안되므로 경로 체크 함수를 만들어 줬다.
-def dfs(start_x, start_y):
-    dx = [-1, 1, 0, 0]
-    dy = [0, 0, -1, 1]
-    stack = [(start_x, start_y)]
-    while stack:
-        now_x, now_y = stack.pop()
-        visited[now_y][now_x] = 1
+from collections import deque
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
-        if maze[now_y][now_x] == 3:
-            return 1
-
+def bfs(x, y, count):
+    queue = deque()
+    queue.append((x, y, count))
+    visited[x][y] = 1
+    while queue:
+        nx, ny, idx = queue.popleft()
+        if maze[nx][ny] == '2':
+            return idx - 1
         for i in range(4):
-            nx = now_x + dx[i]
-            ny = now_y + dy[i]
-            if 0 <= nx < N and 0 <= ny < N and not visited[ny][nx] and maze[ny][nx] != 1:
-                visited[ny][nx] = 1
-                stack.append((nx, ny))
+            xx = nx + dx[i]
+            yy = ny + dy[i]
+            if 0 <= xx < n and 0 <= yy < n and maze[xx][yy] != '1' and not visited[xx][yy]:
+                queue.append((xx, yy, idx + 1))
+                visited[xx][yy] = 1
     return 0
+
 
 T = int(input())
 for tc in range(1, T + 1):
-    N = int(input())
-    maze = [list(map(int, input())) for _ in range(N)]  # 미로의 좌표
-    visited = [[0] * N for _ in range(N)]
-    start_x = 0
-    start_y = 0
+    n = int(input())
+    maze = [list(input()) for _ in range(n)]
+    visited = [[0] * n for _ in range(n)]
+    answer = 0
+    for i in range(n):
+        for j in range(n):
+            if maze[i][j] == '3':
+                answer = bfs(i, j, 0)
 
-    for i in range(N):
-        for j in range(N):
-            if maze[i][j] == 2:
-                start_x = j
-                start_y = i
-                break
-    result = dfs(start_x, start_y)
-    print(f'#{tc} {result}')
+    print(f'#{tc} {answer}')
