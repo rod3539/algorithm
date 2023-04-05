@@ -26,9 +26,9 @@ while True:
     if w == 0 and h == 0:
         break
     island = [list(map(int, input().split())) for _ in range(h)]
-    cnt = 0
+    answer = 0
     for i in range(h):
         for j in range(w):
             if island[i][j] == 1:
-                cnt += bfs(i, j, w, h)
-    print(cnt)
+                answer += bfs(i, j, w, h)
+    print(answer)
