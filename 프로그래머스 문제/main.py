@@ -1,11 +1,13 @@
-def solution(data, n): 
-    # Your code here
-    a = set(data)
-    answer = ''
-    for i in a:
-        if data.count(i) == n:
-            answer += str(i) + ' '
-    return answer[0:-1]
+def solution(n, computers):
+    answer = 0
 
-print(solution([1, 2, 3], 0))
-print(solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1))
+    # 그래프 넣기
+    graph = [[] for _ in range(n + 1)]
+    for i in range(n):
+        for j in range(n):
+            if i == j:
+                continue
+            if computers[i][j] == 1:
+                graph[i + 1].append(j + 1)
+
+    return answer
