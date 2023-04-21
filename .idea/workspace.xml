@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e3ec5c2-691c-4e93-bf47-6a121dc72100" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/코딩테스트 준비/Dynamic Programing/다리 놓기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코딩테스트 준비/Dynamic Programing/돌 게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/귤 고르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/멀리 뛰기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스 문제/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스 문제/level2/달리기 경주.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스 문제/level2/달리기 경주.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <recent name="C:\Users\rod35\Desktop\algorithm\프로그래머스 문제\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.달리기 경주">
     <configuration name="문서 검색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="할인 행사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="달리기 경주" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스 문제/level2/할인 행사.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스 문제/level2/달리기 경주.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -730,6 +726,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.달리기 경주" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.미로" />
         <item itemvalue="Python.구슬탈출2" />
