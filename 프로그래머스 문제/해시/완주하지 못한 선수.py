@@ -1,5 +1,6 @@
+from collections import Counter
+
+
 def solution(participant, completion):
-    dic = {}
-
-
-    return
+    answer = Counter(participant) - Counter(completion)
+    return list(answer.keys())[0]
